@@ -1,4 +1,7 @@
 .header_area .navbar{
     background: "#010838" !important;
+}
 
+.section-intro{
+    max-width: 900px !important ;
 }
