@@ -5,3 +5,8 @@
 .section-intro{
     max-width: 900px !important ;
 }
+
+.footer-area{
+    padding-top: 40px !important;
+    padding-bottom: 40px !important;
+}
