@@ -1660,6 +1660,9 @@ input::-moz-focus-inner {
     top: 24px;
     right: 20px;
   }
+  .btn-act {
+       bottom: auto;   
+}
 }
 
 
@@ -2205,6 +2208,9 @@ html.no-csstransitions .home-content__main {
   .home-scroll {
     right: 25px;
   }
+  .btn-act {
+    bottom: auto;   
+}
 }
 
 
@@ -2366,6 +2372,9 @@ html.no-csstransitions .home-content__main {
   .process__text {
     margin-left: 0;
   }
+  .btn-act {
+    bottom: auto;   
+}
 }
 
 
@@ -2447,6 +2456,9 @@ html.no-csstransitions .home-content__main {
   .services-list [class*="col-"]:nth-child(n) {
     padding: 0;
   }
+  .btn-act {
+    bottom: auto;   
+}
 }
 
 
@@ -2710,6 +2722,9 @@ html.no-csstransitions .home-content__main {
   .masonry-wrap {
     width: auto;
   }
+  .btn-act {
+    bottom: auto;   
+}
 }
 
 
@@ -2968,6 +2983,9 @@ html.no-csstransitions .home-content__main {
   .stats__count {
     font-size: 8.2rem;
   }
+  .btn-act {
+    bottom: auto;   
+}
 }
 
 
@@ -3409,13 +3427,15 @@ html.no-csstransitions .home-content__main {
   .cl-go-top::after {
     display: none;
   }
+  .btn-act {
+    bottom: auto;   
+}
 }
 
 /*# sourceMappingURL=main.css.map */
 .btn-act {
   position: relative;
     float: right;
-    bottom: 210px;
     right: 120px;   
     border-radius: 100px;
     width: 250px;
