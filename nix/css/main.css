@@ -3430,6 +3430,7 @@ html.no-csstransitions .home-content__main {
   .btn-act {
     bottom: auto;   
 }
+
 }
 
 /*# sourceMappingURL=main.css.map */
@@ -3442,4 +3443,13 @@ html.no-csstransitions .home-content__main {
 }
 .btn-act:hover{ 
     background: #37373836;  
+}
+
+.box-facebook{  
+  width: auto;
+  height: auto;
+  display: block;
+  margin-top: 20px;
+  float: right;
+  margin-right: 200px;
 }
